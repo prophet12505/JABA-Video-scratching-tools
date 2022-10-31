@@ -1,13 +1,13 @@
 # JABA
 a program scraches videoes online	
 
-#Tech Stack
+# Tech Stack
 python 3.6
 Pyqt for graphic inteface
 sqlite3 for local database
 BeautifulSoup Requests for scratching function
 
-#quick start
+# quick start
   pip install pyqt5
   pip install BeautifulSoup
   pip install Requests
