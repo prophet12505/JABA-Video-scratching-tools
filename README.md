@@ -8,11 +8,11 @@ a desktop program scraches videoes online
 - BeautifulSoup Requests for scratching function  
 
 # quick start
- > pip install pyqt5  
+ >     pip install pyqt5  
  >
- > pip install BeautifulSoup  
+ >     pip install BeautifulSoup  
  >
- > pip install Requests  
+ >     pip install Requests  
  >
 
   Once you've configured the dependencies, you are **good to go**
