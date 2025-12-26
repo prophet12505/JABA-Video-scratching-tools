@@ -1,5 +1,5 @@
 # JABA
-a desktop program scraches videoes online	
+a desktop program to snatch videoes online	
 
 # Tech Stack
 - python 3.6  
